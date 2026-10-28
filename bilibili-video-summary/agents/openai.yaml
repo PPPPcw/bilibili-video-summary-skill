@@ -1,0 +1,4 @@
+interface:
+  display_name: "B站视频转写与总结"
+  short_description: "提取B站字幕，无字幕时用本地Whisper转写并生成可靠总结"
+  default_prompt: "Use $bilibili-video-summary to transcribe and summarize this Bilibili video with timestamps."

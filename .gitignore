@@ -1,0 +1,11 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+.venv/
+output/
+models/*.bin
+*.wav
+*.m4a
+*.m4s
+*.mp4
+*.part
